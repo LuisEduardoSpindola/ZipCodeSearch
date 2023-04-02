@@ -1,0 +1,17 @@
+{
+    "name": "edusp/zip-code",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Edusp\\ZipCode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LuisEduardoSpindola"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
